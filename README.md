@@ -19,4 +19,4 @@ Promotes student responsibility and improves attendance rates.
 This bot simplifies attendance tracking and communication, making it more efficient and convenient for both students and instructors at DSTU.
 
 
-                    ![image](https://github.com/JoyKad/TG_bot/assets/56535439/25beaee4-bdec-40e9-a738-d7328a7c2720)
+![image](https://github.com/JoyKad/TG_bot/assets/56535439/25beaee4-bdec-40e9-a738-d7328a7c2720)
